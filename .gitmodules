@@ -1,0 +1,15 @@
+[submodule "src_corpora/tcpkali"]
+	path = src_corpora/tcpkali
+	url = https://github.com/syreal17/tcpkali.git
+[submodule "src_corpora/vlc"]
+	path = src_corpora/vlc
+	url = https://github.com/syreal17/vlc.git
+[submodule "src_corpora/swoole-src"]
+	path = src_corpora/swoole-src
+	url = https://github.com/syreal17/swoole-src.git
+[submodule "src_corpora/brubeck"]
+	path = src_corpora/brubeck
+	url = https://github.com/syreal17/brubeck.git
+[submodule "src_corpora/mpc"]
+	path = src_corpora/mpc
+	url = https://github.com/syreal17/mpc.git
