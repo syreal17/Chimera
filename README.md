@@ -12,14 +12,15 @@ The vision for Chimera is to be an automatic corpora generation tool that can ha
 
 # Requirements
 
+ Many things:
 * Bash
-
-And what the source corpora needs to build:
 * Make
 * Autoconf
 * Configure
 * Automake
 * CMake
+
+But also every dependency for each source project. This is an ongoing [issue](../../issues/1). We may release Chimera as a virtual machine appliance once work is more mature.
 
 # Using Chimera
 
