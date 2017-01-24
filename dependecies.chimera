@@ -1,0 +1,13 @@
+*configure			Most projects
+*autoconf			tcpkali
+*automake			Most projects
+*libtool			tcpkali
+*bison				tcpkali
+*flex				tcpkali
+*make				Most projects
+*libjansson-dev 		brubeck
+*libcrypto			brubeck
+*libmicrohttpd-dev 		brubeck
+*gold				brubeck, others that use -flto
+*LLVMgold			brubeck, others that use -flto
+
