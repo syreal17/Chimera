@@ -13,7 +13,7 @@
 *PHP				swoole
 
 build-essential			FreeRDP
-git-core 			FreeRDP
+git-core 			FreeRDP,RetroArch
 cmake 				FreeRDP
 xsltproc 			FreeRDP
 libssl-dev 			FreeRDP
@@ -35,3 +35,14 @@ libxi-dev 			FreeRDP
 libgstreamer-plugins-base1.0-dev	FreeRDP
 libavutil-dev 			FreeRDP
 libavcodec-dev			FreeRDP
+
+curl 		 		RetroArch
+g++				RetroArch 
+pkg-config 			RetroArch
+libglu1-mesa-dev		RetroArch 
+freeglut3-dev			RetroArch 
+mesa-common-dev			RetroArch 
+libsdl1.2-dev 			RetroArch
+libsdl-image1.2-d		RetroArch
+libsdl-mixer1.2-d		RetroArch
+libsdl-ttf2.0-dev		RetroArch

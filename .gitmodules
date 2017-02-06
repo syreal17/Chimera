@@ -16,3 +16,6 @@
 [submodule "src_corpora/FreeRDP"]
 	path = src_corpora/FreeRDP
 	url = https://github.com/syreal17/FreeRDP.git
+[submodule "src_corpora/RetroArch"]
+	path = src_corpora/RetroArch
+	url = https://github.com/syreal17/RetroArch.git
