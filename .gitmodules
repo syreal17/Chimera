@@ -13,3 +13,6 @@
 [submodule "src_corpora/mpc"]
 	path = src_corpora/mpc
 	url = https://github.com/syreal17/mpc.git
+[submodule "src_corpora/FreeRDP"]
+	path = src_corpora/FreeRDP
+	url = https://github.com/syreal17/FreeRDP.git

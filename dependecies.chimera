@@ -11,3 +11,27 @@
 *gold				brubeck, others that use -flto
 *LLVMgold			brubeck, others that use -flto
 *PHP				swoole
+
+build-essential			FreeRDP
+git-core 			FreeRDP
+cmake 				FreeRDP
+xsltproc 			FreeRDP
+libssl-dev 			FreeRDP
+libx11-dev 			FreeRDP
+libxext-dev 			FreeRDP
+libxinerama-dev			FreeRDP
+libxcursor-dev 			FreeRDP
+libxdamage-dev 			FreeRDP
+libxv-dev 			FreeRDP
+libxkbfile-dev 			FreeRDP
+libasound2-dev 			FreeRDP
+libcups2-dev 			FreeRDP
+libxml2 			FreeRDP
+libxml2-dev			FreeRDP
+libxrandr-dev 			FreeRDP
+libgstreamer0.10-dev 		FreeRDP
+libgstreamer-plugins-base0.10-dev FreeRDP
+libxi-dev 			FreeRDP
+libgstreamer-plugins-base1.0-dev	FreeRDP
+libavutil-dev 			FreeRDP
+libavcodec-dev			FreeRDP
