@@ -19,3 +19,6 @@
 [submodule "src_corpora/RetroArch"]
 	path = src_corpora/RetroArch
 	url = https://github.com/syreal17/RetroArch.git
+[submodule "src_corpora/ZeroTierOne"]
+	path = src_corpora/ZeroTierOne
+	url = https://github.com/syreal17/ZeroTierOne.git
