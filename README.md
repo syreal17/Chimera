@@ -1,13 +1,13 @@
 # Chimera 
-##Corpora Heterogenization by Invocation Modulation for Elfs in Reversing Analyses
-##Overview
+## Corpora Heterogenization by Invocation Modulation for Elfs in Reversing Analyses
+## Overview
 Source to binary corpora creation based on multiple different compiler invocations, for say creating a corpora of binaries with every different optimization level. Currently you can customize invocations.cfg with compiler, cflags, extension for the binaries, and folder for the binaries. This allows for exercising compile-time obfuscators like [o-llvm](https://github.com/obfuscator-llvm/obfuscator/wiki) to create corpora of binaries that exhibit different levels and types of obfuscation transformations. These corpora could be used to test automated reverse engineering analyses or for other research. o-llvm is confirmed to work with Chimera.
 
 Chimera is simple set of bash scripts and a C corpora with build processes that have been standardized by a buildit.chimera script. 
 
 Additions to the source corpus as well as additions to the mechanics of Chimera are welcome.
 
-##Vision
+## Vision
 The vision for Chimera is to be an automatic corpora generation tool that can handle source-to-source, compile-time obfuscators and binary rewriters, whether they are command-line or GUI. We hope also to add [theZoo](https://github.com/ytisf/theZoo) malware sources as part of the Chimera source corpora to make it much more relevant for malware analyses.
 
 # Requirements
