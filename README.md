@@ -1,4 +1,5 @@
-# Chimera 
+![CHIMERA](https://chthcs.files.wordpress.com/2017/10/chimerawhite.png)
+
 ## Corpora Heterogenization by Invocation Modulation for Elfs in Reversing Analyses
 ## Overview
 Source to binary corpora creation based on multiple different compiler invocations, for say creating a corpora of binaries with every different optimization level. Currently you can customize invocations.cfg with compiler, cflags, extension for the binaries, and folder for the binaries. This allows for exercising compile-time obfuscators like [o-llvm](https://github.com/obfuscator-llvm/obfuscator/wiki) to create corpora of binaries that exhibit different levels and types of obfuscation transformations. These corpora could be used to test automated reverse engineering analyses or for other research. o-llvm is confirmed to work with Chimera.
